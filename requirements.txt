@@ -21,7 +21,7 @@ cryptography==2.3.1
 cssselect==1.0.3
 daphne==2.2.2
 decorator==4.3.0
-Django==1.11.7
+Django==1.11.29
 django-redis==4.9.0
 django-redis-cache==1.7.1
 djangorestframework==3.8.2
